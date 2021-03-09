@@ -71,7 +71,7 @@ menu:
   main:
   - name: Store
     URL: "/store"
-    weight: ''
+    weight: "4"
   - name: About
     URL: about
     weight: "2"
