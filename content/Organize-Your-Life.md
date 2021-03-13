@@ -1,56 +1,53 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-1.jpg"
-categories: 
-  - "Valuable Idea"
+title: Fast Take Friday 7/10/2020
+date: 2020-07-10T08:46:10+00:00
+description: Weekly Recap
+type: featured
+image: "/images/20200710_221511_0000-2.png"
+categories:
+- Recap
 tags:
-  - "Photos"
-  - "Finance"
+- weekly
+- recap
+- weekly recap
+
 ---
+First thing’s first: Bear in mind that SOME of the links in this post are affiliate links and if you go through them to make a purchase I may earn a commission. Keep in mind that I link these companies and their products because of their quality and not because of the commission I receive from your purchases. The decision is yours, and whether or not you decide to buy something is completely up to you.
 
+Here’s the fast take of the week (not as fast as they will be though):
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+This week was ROUGH. In order to really tell you why, I need you to understand the year and a half we’ve had. As a quick low down of the last 15ish months, here’s the recap… One of my good friends, who both my boys (and both me and my husband) absolutely adored moved out of the country taking her awesome partner and adorable little girl with (another amazing mom and woman please check out her podcast [https://www.planitmum.com/podcast-1](https://www.planitmum.com/podcast-1 "https://www.planitmum.com/podcast-1")) This was crazy hard on my oldest who already is an anxious kid.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+![](https://cookcraftparent.files.wordpress.com/2020/07/94067041_127995222158514_7056523377749524480_n.png?w=820)
 
+Then, our apartment decided to raise our rent ASTRONOMICALLY and refused to negotiate. We finally, out of ease and a love of our friends who lived there, decided to sign the awful lease. Then couldn’t and no one would communicate with us so we looked elsewhere. Decided to leave and moved to a condo. Meanwhile my Rockstar of a Dad got a stellar job and we found out they were moving, my parents are my foundation and my mom is my absolute best friend so I was DEVASTATED.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+![](https://cookcraftparent.files.wordpress.com/2020/07/75614181_10155817427179159_8406137144514445312_o.jpg?w=1024)
 
+Fast forward 1 month school starts, S is in class with ALL of his best friends and Z is settled into a rhythm with me. Both are still asking for K and A and J (friends who left) and Nana and Pop Pop regularly but are handling it. I struggled being even 10 minutes away from the closeness of the apartment, but quickly learned who and what to rely on in my little world. Now onto one month in the future, Isaac gets the opportunity to interview for a job he has been dying for and we walk on egg shells for a whole month. At this point we had known the job was going to open up but no idea of when, for almost a month.
 
-![](../images/post-img.jpg)
+So now we’ve known about the job for 2 months, but he’s only had a shot for a month. During this month he has had a phone interview, and flown out to WA to interview. And then he got it. So we’ve lived in our new place for 3 months before moving. Our son will have been in school for 2.5 months when we move. I will throw together 2 birthday parties within 2 weeks to make sure they don’t miss out on celebrating with their friends. And when we move we will have no furniture for 2 weeks. My youngest won’t go to school as we can’t afford to put them both in preschool but that’s fine, but my oldest won’t have a spot for 2.5 whole months. And this is rough. Then quarantine.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+![](https://cookcraftparent.files.wordpress.com/2020/07/00100trportrait_00100_burst20200629110045005_cover.jpg?w=840)
 
+I tell you all this because my oldest, much like his mom, is a high anxiety little dude. He has many tics we are constantly working through and we are doing our best and continue to try everything to help him find ways to manage his stress, emotions, axiety and temper. So this week, now 7 days into school again, has been hard for him. Not all of his friends are there, some are in masks, his teacher must wear a mask. Hand washing is doubled. Cooperative play is mostly outside. It’s just different. So his routine is different and he is struggling.
 
+![](https://cookcraftparent.files.wordpress.com/2020/07/00100trportrait_00100_burst20200706075239022_cover.jpg?w=768)
+
+Z on the other hand has gotten through everything in stride. He has some anger that pops up, but we cope with that as well. Little babies and their emotions, am I right??? This week he’s started eating more again (thank goodness) and had a nasty tumble over his scooter, which ended up being okay in his book as he got a camo bandaid and lollipop before bed ![🤷🏻‍♀️](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f937-1f3fb-200d-2640-fe0f.svg)
+
+![](https://cookcraftparent.files.wordpress.com/2020/07/img_20200708_100510_518.jpg?w=821)
+
+The boys also got this awesome submarine I scored at Michaels for only $2.99 this week! They are in love, but so far have no interest in coloring it ![🤣](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f923.svg) but who cares as long as they are having fun! That’s our week. We have no plans this weekend, the house has gotten out of control and aside from enjoying the beautiful weather we need to organize and beautify the place. It is a straight up mess. So look for some cleaning and organizing tips in the coming days.
+
+![](https://cookcraftparent.files.wordpress.com/2020/07/00000portrait_00000_burst20200711132107426.jpg?w=768)
+
+Peace out trout and enjoy the weekend!
+
+![](https://cookcraftparent.files.wordpress.com/2020/07/00100trportrait_00100_burst20200701070326433_cover.jpg?w=768)
+
+![](https://cookcraftparent.files.wordpress.com/2020/07/00000portrait_00000_burst20200710101238149.jpg?w=768)
+
+![](https://cookcraftparent.files.wordpress.com/2020/07/00100srportrait_00100_burst20200706075046052_cover.jpg?w=840)
+
+![](https://cookcraftparent.files.wordpress.com/2020/07/00000portrait_00000_burst20200703134005205.jpg?w=840)
