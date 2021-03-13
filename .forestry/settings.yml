@@ -29,7 +29,7 @@ sections:
   create: none
   match: "*"
 - type: document
-  path: config.yaml
+  path: config.toml
   label: Configuration
 upload_dir: static/images
 public_path: "/images"
