@@ -1,56 +1,31 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-4.jpg"
-categories: 
-  - "Article"
+title: Fast Take Friday Week of 7/27
+date: 2020-07-31T08:46:10+00:00
+description: Blueberry picking with the family
+type: featured
+image: "/images/20200710_221511_0000-2.png"
+categories:
+- Article
 tags:
-  - "Photos"
-  - "Article"
+- kids
+- parenting
+- momming
+
 ---
+Last weekend we ventured out and went blueberry picking. Boy is it hot! I don’t know about you, but we just don’t do well in the heat. Especially with masks. But we did it, and it was SUCH a short adventure, but totally worth it. We ended up driving down by the river afterwards and walked around until heading home for lunch.
 
+![](https://cookcraftparent.files.wordpress.com/2020/07/00100trportrait_00100_burst20200725135219415_cover.jpg?w=768)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+![](https://cookcraftparent.files.wordpress.com/2020/07/img_20200725_133146.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+We also went to a drive in movie this week. We brought our own food, and stayed MOSTLY in our cars. But it was such a treat for the boys. Trying to find something different for them is so important these days. We did buy ice cream sandwiches from a food truck there for dessert.
 
+[![](https://cookcraftparent.files.wordpress.com/2020/07/00100trportrait_00100_burst20200728175506112_cover.jpg?w=768)](https://www.sweetwheels.net/)Totally worth it! And they had gluten free for me!
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+Whose in the mask game? I just made a few that I’m loving. Seamless, around the ear, but with ties. They aren’t the easiest ones but I’m hoping my little sensory sensitive guy will keep it on.
 
+![](https://cookcraftparent.files.wordpress.com/2020/07/img_20200728_090828_01.jpg?w=768)
 
-![](../images/post-img.jpg)
+![](https://cookcraftparent.files.wordpress.com/2020/07/img_20200728_090819_02.jpg?w=768)(it’s reversible!)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
+![](https://cookcraftparent.files.wordpress.com/2020/07/img_20200728_090819_01.jpg?w=768)Ignore my massive lack of makeup ![🤦🏻‍♀️](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f926-1f3fb-200d-2640-fe0f.svg)
