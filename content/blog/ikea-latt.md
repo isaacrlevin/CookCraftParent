@@ -2,7 +2,7 @@
 title: Our Ikea Latt Hack Makeover
 date: 2020-08-20T07:00:00+00:00
 description: Personalizing an Ikea table into a kid's craft heaven
-type: featured
+type: post
 image: "/images/img_20200812_234612.jpg"
 categories:
 - DIY

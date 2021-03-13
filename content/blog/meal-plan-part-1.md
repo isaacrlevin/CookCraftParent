@@ -2,7 +2,7 @@
 title: 'Meal Planning Part 1: Our Why'
 date: 2020-07-15T08:46:10+00:00
 description: Meal Planning Paret 1
-type: featured
+type: post
 image: "/images/img_20200715_123155_01.jpg"
 categories:
 - Meal Planning
