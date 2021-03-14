@@ -78,4 +78,4 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [[params.social]]
 icon = "ti-instagram"
-url = "https://www.instagram.com/cook.craft.parent"
+URL = "https://www.instagram.com/cook.craft.parent"
