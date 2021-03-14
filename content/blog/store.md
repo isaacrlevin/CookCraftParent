@@ -8,9 +8,9 @@ tags = []
 title = "Store"
 type = "post"
 [menu.main]
-weight = 4
+weight = 5
 
 +++
 This is the store
 
-Letters 
+Letters
