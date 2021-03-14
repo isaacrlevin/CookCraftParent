@@ -6,6 +6,11 @@ summaryLength = "10"
 theme = "parsa"
 title = "Cook Craft Parent"
 [[menu.main]]
+hasChildren = true
+name = "Store"
+url = "store"
+weight = 3
+[[menu.main]]
 name = "Letters"
 parent = "Store"
 url = "store/letters"

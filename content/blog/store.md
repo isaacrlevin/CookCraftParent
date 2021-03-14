@@ -7,9 +7,6 @@ image = ""
 tags = []
 title = "Store"
 type = "post"
-[menu.main]
-hasChildren = true
-weight = 3
 
 +++
 This is the store
