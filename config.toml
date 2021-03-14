@@ -35,11 +35,11 @@ bio = "I’m a Freelance Interactive Art Director based in France. Focusing acro
 contact_form_action = "https://formspree.io/f/mdopqpzd"
 copyright = "Copyright &copy; 2020"
 description = "This is meta description"
-email = "exmaple@ymail.com"
+email = "levinsbooklovers@gmail.com"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
-mobile = "+90 000 333 22"
+mobile = ""
 preloader = true
 search = true
 [params.cookies]
@@ -77,14 +77,5 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-icon = "ti-facebook"
-url = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-url = "#"
-[[params.social]]
-icon = "ti-linkedin"
-url = "#"
-[[params.social]]
-icon = "ti-github"
-url = "#"
+icon = "ti-instagram"
+url = "https://www.instagram.com/cook.craft.parent"
