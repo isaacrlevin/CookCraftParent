@@ -18,10 +18,10 @@ There are 2 prices, one is standard with a color of your choice. The other optio
 
 #### Standard
 
-* Single Letter/Number        $.50
-* Full set (A-Z, 0-9)               $20:00
+* Single Letter/Number        $0.50
+* Full set (A-Z, 0-9)               $25.00
 
-Deluxe
+#### Deluxe
 
-* Single Letter/Number        $.75
+* Single Letter/Number        $0.75
 * Full set (A-Z, 0-9)               $30:00
