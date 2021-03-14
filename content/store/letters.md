@@ -12,7 +12,7 @@ I am selling handcrafted resin letters and numbers, coming in endless combinatio
 
 ![](/images/pxl_20210310_230527881-portrait_2.jpg)![](/images/pxl_20210310_230407339-portrait_2.jpg)
 
-There are 2 prices, one is standard with a color of your choice. The other option is name your customization. Maybe you want glow in the dark letters with glitter in them? I can make what you want.
+There are 2 prices, one is standard with a color of your choice. The other option is name your customization. Maybe you want glow in the dark letters with glitter in them? I can make what you want. To place an order, reach out with what you want via the [Contact Page](/contact), and I will get back to you.
 
 ### Prices
 
