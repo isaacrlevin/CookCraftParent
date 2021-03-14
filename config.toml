@@ -9,6 +9,13 @@ title = "Cook Craft Parent"
 name = "Store"
 url = "store"
 weight = "3"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Store"
+  name = "Letters"
+  url = "store/letters"
+
 [[menu.main]]
 name = "Homepage"
 url = ""
