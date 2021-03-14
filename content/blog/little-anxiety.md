@@ -3,7 +3,7 @@ title: Such Little Bodies, Such Great Anxiety
 date: 2020-07-08T08:46:10+00:00
 description: Littles with anxiety and how to handle
 type: post
-image: "/images/banner.png"
+image: "/images/author.jpg"
 categories:
 - Kids
 tags:

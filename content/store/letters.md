@@ -1,9 +1,7 @@
 +++
-categories = []
 date = ""
 description = ""
 image = "/images/letters.jpg"
-tags = []
 title = "Letters"
 type = "post"
 

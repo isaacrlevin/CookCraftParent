@@ -10,6 +10,7 @@ tags:
 - meal
 - meal planning
 - planning
+summary: So let me be real…there is a draft of this post that never ends. There is so much I need to say in order to explain what planning is to me, that I am just going to start with my WHY.
 
 ---
 First thing’s first: Bear in mind that SOME of the links in this post are affiliate links and if you go through them to make a purchase I may earn a commission. Keep in mind that I link these companies and their products because of their quality and not because of the commission I receive from your purchases. The decision is yours, and whether or not you decide to buy something is completely up to you.

@@ -6,16 +6,6 @@ summaryLength = "10"
 theme = "parsa"
 title = "Cook Craft Parent"
 [[menu.main]]
-hasChildren = true
-name = "Store"
-url = "store"
-weight = 3
-[[menu.main]]
-name = "Letters"
-parent = "Store"
-url = "store/letters"
-weight = 1
-[[menu.main]]
 name = "Homepage"
 weight = 1
 [[menu.main]]
@@ -26,15 +16,24 @@ weight = 4
 name = "About"
 url = "about"
 weight = 2
+[[menu.main]]
+hasChildren = true
+name = "Store"
+url = "store"
+weight = 3
+    [[menu.main]]
+    name = "Letters"
+    parent = "Store"
+    url = "store/letters"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
-author = "John Doe"
-author_image = "images/banner-img.png"
+author = "Ari"
+author_image = "images/author.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
-contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+contact_form_action = "https://formspree.io/f/mdopqpzd"
+copyright = "Copyright &copy; 2020"
 description = "This is meta description"
 email = "exmaple@ymail.com"
 home = "Home"
