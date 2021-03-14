@@ -6,8 +6,6 @@ image = "/images/letters.jpg"
 tags = []
 title = "Letters"
 type = "post"
-[menu.main]
-weight = 3
 
 +++
 I am selling handcrafted resin letters and numbers, coming in endless combinations. Choose the letters or numbers, the colors, if you want a filler (think glitter, flowers, anything that will float in the resin), the choice is all yours.

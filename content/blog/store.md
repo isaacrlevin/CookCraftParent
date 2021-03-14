@@ -8,7 +8,7 @@ tags = []
 title = "Store"
 type = "post"
 [menu.main]
-weight = 5
+weight = 4
 
 +++
 This is the store
