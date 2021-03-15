@@ -21,10 +21,10 @@ hasChildren = true
 name = "Store"
 url = "store"
 weight = 3
-    [[menu.main]]
-    name = "Letters"
-    parent = "Store"
-    url = "store/letters"
+[[menu.main]]
+name = "Letters"
+parent = "Store"
+url = "store/letters"
 weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -35,7 +35,7 @@ bio = "I’m a Freelance Interactive Art Director based in France. Focusing acro
 contact_form_action = "https://formspree.io/f/mdopqpzd"
 copyright = "Copyright &copy; 2020"
 description = "This is meta description"
-email = "levinsbooklovers@gmail.com"
+email = ""
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
@@ -77,5 +77,5 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-icon = "ti-instagram"
 URL = "https://www.instagram.com/cook.craft.parent"
+icon = "ti-instagram"
