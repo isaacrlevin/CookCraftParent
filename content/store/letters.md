@@ -1,10 +1,10 @@
 +++
 categories = []
 date = ""
-description = ""
+description = "These handcrafted resin letters are a great way to enhance your sensory play, practice letter recognition, and just have fun!!"
 image = "/images/pxl_20210310_230722122_2.jpg"
 tags = []
-title = "Letters"
+title = "Custom Resin Letters"
 type = "post"
 
 +++
